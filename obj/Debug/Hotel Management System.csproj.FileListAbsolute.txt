@@ -1,0 +1,32 @@
+c:\users\md ashikul islam\documents\visual studio 2015\Projects\Hotel Management System\Hotel Management System\bin\Debug\Hotel Management System.exe.config
+c:\users\md ashikul islam\documents\visual studio 2015\Projects\Hotel Management System\Hotel Management System\bin\Debug\Hotel Management System.exe
+c:\users\md ashikul islam\documents\visual studio 2015\Projects\Hotel Management System\Hotel Management System\bin\Debug\Hotel Management System.pdb
+c:\users\md ashikul islam\documents\visual studio 2015\Projects\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csprojResolveAssemblyReference.cache
+c:\users\md ashikul islam\documents\visual studio 2015\Projects\Hotel Management System\Hotel Management System\obj\Debug\MainWindow.g.cs
+c:\users\md ashikul islam\documents\visual studio 2015\Projects\Hotel Management System\Hotel Management System\obj\Debug\App.g.cs
+c:\users\md ashikul islam\documents\visual studio 2015\Projects\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System_MarkupCompile.cache
+c:\users\md ashikul islam\documents\visual studio 2015\Projects\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System_MarkupCompile.lref
+c:\users\md ashikul islam\documents\visual studio 2015\Projects\Hotel Management System\Hotel Management System\obj\Debug\MainWindow.baml
+c:\users\md ashikul islam\documents\visual studio 2015\Projects\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.g.resources
+c:\users\md ashikul islam\documents\visual studio 2015\Projects\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Properties.Resources.resources
+c:\users\md ashikul islam\documents\visual studio 2015\Projects\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csproj.GenerateResource.Cache
+c:\users\md ashikul islam\documents\visual studio 2015\Projects\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.exe
+c:\users\md ashikul islam\documents\visual studio 2015\Projects\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.pdb
+c:\users\md ashikul islam\documents\visual studio 2015\Projects\Hotel Management System\Hotel Management System\obj\Debug\mainInterface.g.cs
+c:\users\md ashikul islam\documents\visual studio 2015\Projects\Hotel Management System\Hotel Management System\obj\Debug\mainInterface.baml
+C:\Users\Md Ashikul Islam\Documents\Visual Studio 2015\Projects\Restaurent Management System\Hotel Management System\bin\Debug\Hotel Management System.exe.config
+C:\Users\Md Ashikul Islam\Documents\Visual Studio 2015\Projects\Restaurent Management System\Hotel Management System\obj\Debug\Hotel Management System.exe
+C:\Users\Md Ashikul Islam\Documents\Visual Studio 2015\Projects\Restaurent Management System\Hotel Management System\obj\Debug\Hotel Management System.pdb
+C:\Users\Md Ashikul Islam\Documents\Visual Studio 2015\Projects\Restaurent Management System\Hotel Management System\bin\Debug\Hotel Management System.exe
+C:\Users\Md Ashikul Islam\Documents\Visual Studio 2015\Projects\Restaurent Management System\Hotel Management System\bin\Debug\Hotel Management System.pdb
+C:\Users\Md Ashikul Islam\Documents\Visual Studio 2015\Projects\Restaurent Management System\Hotel Management System\obj\Debug\Hotel Management System.csprojResolveAssemblyReference.cache
+C:\Users\Md Ashikul Islam\Documents\Visual Studio 2015\Projects\Restaurent Management System\Hotel Management System\obj\Debug\mainInterface.g.cs
+C:\Users\Md Ashikul Islam\Documents\Visual Studio 2015\Projects\Restaurent Management System\Hotel Management System\obj\Debug\MainWindow.g.cs
+C:\Users\Md Ashikul Islam\Documents\Visual Studio 2015\Projects\Restaurent Management System\Hotel Management System\obj\Debug\App.g.cs
+C:\Users\Md Ashikul Islam\Documents\Visual Studio 2015\Projects\Restaurent Management System\Hotel Management System\obj\Debug\Hotel Management System_MarkupCompile.cache
+C:\Users\Md Ashikul Islam\Documents\Visual Studio 2015\Projects\Restaurent Management System\Hotel Management System\obj\Debug\Hotel Management System_MarkupCompile.lref
+C:\Users\Md Ashikul Islam\Documents\Visual Studio 2015\Projects\Restaurent Management System\Hotel Management System\obj\Debug\mainInterface.baml
+C:\Users\Md Ashikul Islam\Documents\Visual Studio 2015\Projects\Restaurent Management System\Hotel Management System\obj\Debug\MainWindow.baml
+C:\Users\Md Ashikul Islam\Documents\Visual Studio 2015\Projects\Restaurent Management System\Hotel Management System\obj\Debug\Hotel Management System.g.resources
+C:\Users\Md Ashikul Islam\Documents\Visual Studio 2015\Projects\Restaurent Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Properties.Resources.resources
+C:\Users\Md Ashikul Islam\Documents\Visual Studio 2015\Projects\Restaurent Management System\Hotel Management System\obj\Debug\Hotel Management System.csproj.GenerateResource.Cache
